@@ -81,6 +81,7 @@ namespace Bank_System
                 {
                     item.Payment += pay;
                     item.Amount -= pay;
+                    item.Months--;
                     if(item.Amount==0)
                     {
                         cl.Credits.Remove(item);

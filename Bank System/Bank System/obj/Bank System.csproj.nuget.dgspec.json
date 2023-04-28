@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#\\Bank System\\Bank System\\Bank System.csproj": {}
+    "C:\\Users\\RustamH\\Desktop\\Bank-System-CS\\Bank System\\Bank System\\Bank System.csproj": {}
   },
   "projects": {
-    "D:\\c#\\Bank System\\Bank System\\Bank System.csproj": {
+    "C:\\Users\\RustamH\\Desktop\\Bank-System-CS\\Bank System\\Bank System\\Bank System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#\\Bank System\\Bank System\\Bank System.csproj",
+        "projectUniqueName": "C:\\Users\\RustamH\\Desktop\\Bank-System-CS\\Bank System\\Bank System\\Bank System.csproj",
         "projectName": "Bank System",
-        "projectPath": "D:\\c#\\Bank System\\Bank System\\Bank System.csproj",
+        "projectPath": "C:\\Users\\RustamH\\Desktop\\Bank-System-CS\\Bank System\\Bank System\\Bank System.csproj",
         "packagesPath": "C:\\Users\\RustamH\\.nuget\\packages\\",
-        "outputPath": "D:\\c#\\Bank System\\Bank System\\obj\\",
+        "outputPath": "C:\\Users\\RustamH\\Desktop\\Bank-System-CS\\Bank System\\Bank System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RustamH\\AppData\\Roaming\\NuGet\\NuGet.Config",
